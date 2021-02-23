@@ -8,7 +8,8 @@ To install the package
 
 Testing is set up using the built in Unit Test framework in Python
 
-Run the tests with `python setup.py test` in the root directory
+Run the tests with `python setup.py test` in the root directory.
+
 Alternatively you can do `python -m unittest discover -s .`
 
 
